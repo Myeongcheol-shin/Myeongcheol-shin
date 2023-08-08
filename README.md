@@ -6,7 +6,7 @@
   <a href="https://shino72.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
-  <a href="https://shino72.tistory.com/">
+  <a href="https://play.google.com/store/apps/developer?id=Shino72&pli=1">
     <img src="https://img.shields.io/badge/Google Play-414141?style=flat-square&logo=Google Play&logoColor=white"/>
   </a>
 </div>
