@@ -11,7 +11,7 @@
 <div align=center>
 Android 신입 개발자입니다. 주로 Kotlin과 Java를 사용해서 개발을 합니다.
   
-최근에는 Flutter를 공부하고 있습니다. 간단한 것이라도 만들면 좋을 것 같다는 생각이 들면 바로 만드는걸 좋아해요.
+최근에는 Flutter를 공부하고 있습니다. 간단한 것이라도 만들면 좋을 것 같다는 생각이 들면 바로 만드는걸 좋아합니다.
 </div>
 
 **<div align=center> :blush: Study </div>**
