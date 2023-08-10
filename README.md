@@ -5,6 +5,7 @@
   <a href="https://play.google.com/store/apps/developer?id=Shino72&pli=1">
     <img src="https://img.shields.io/badge/Google Play-414141?style=flat-square&logo=Google Play&logoColor=white"/>
   </a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMyeongcheol-shin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 **<div align=center> :blush: Introduction </div>**
