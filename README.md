@@ -20,7 +20,6 @@ Android 신입 개발자입니다. 주로 Kotlin과 Java를 사용해서 개발�
 
 ## App with Kotlin <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 [:train2: **출그니**  - 지하철 커뮤니티 어플리케이션](https://github.com/kookmin-sw/capstone-2023-28)  
-[:potable_water: **Water-Reminder** - 물 마신 양 기록 어플리케이션](https://github.com/Myeongcheol-shin/water_reminder)  
 [:zap: **반응속도 테스트** - 반응속도 테스트 어플리케이션](https://github.com/Myeongcheol-shin/physical_test_application)  
 [:envelope: **정기결제** - OTT 결제 관리 어플리케이션](https://github.com/Myeongcheol-shin/payment_management)  
 
